@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex_les005_Masha!/1.0.0": {
+        "runtime": {
+          "Ex_les005_Masha!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_les005_Masha!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

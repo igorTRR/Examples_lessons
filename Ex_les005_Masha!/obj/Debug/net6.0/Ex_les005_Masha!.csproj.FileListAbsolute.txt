@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\bin\Debug\net6.0\Ex_les005_Masha!.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\bin\Debug\net6.0\Ex_les005_Masha!.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\bin\Debug\net6.0\Ex_les005_Masha!.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\bin\Debug\net6.0\Ex_les005_Masha!.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\bin\Debug\net6.0\Ex_les005_Masha!.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\refint\Ex_les005_Masha!.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\Ex_les005_Masha!.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les005_Masha!\obj\Debug\net6.0\ref\Ex_les005_Masha!.dll
