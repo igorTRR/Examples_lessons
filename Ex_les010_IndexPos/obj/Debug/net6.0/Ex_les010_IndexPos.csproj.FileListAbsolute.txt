@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\bin\Debug\net6.0\Ex_les010_IndexPos.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\bin\Debug\net6.0\Ex_les010_IndexPos.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\bin\Debug\net6.0\Ex_les010_IndexPos.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\bin\Debug\net6.0\Ex_les010_IndexPos.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\bin\Debug\net6.0\Ex_les010_IndexPos.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\refint\Ex_les010_IndexPos.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\Ex_les010_IndexPos.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les010_IndexPos\obj\Debug\net6.0\ref\Ex_les010_IndexPos.dll
