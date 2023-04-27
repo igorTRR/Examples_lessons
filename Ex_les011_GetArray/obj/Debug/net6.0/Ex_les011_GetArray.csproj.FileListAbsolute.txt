@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\bin\Debug\net6.0\Ex_les011_GetArray.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\bin\Debug\net6.0\Ex_les011_GetArray.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\bin\Debug\net6.0\Ex_les011_GetArray.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\bin\Debug\net6.0\Ex_les011_GetArray.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\bin\Debug\net6.0\Ex_les011_GetArray.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\refint\Ex_les011_GetArray.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\Ex_les011_GetArray.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les011_GetArray\obj\Debug\net6.0\ref\Ex_les011_GetArray.dll
