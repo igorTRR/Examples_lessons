@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\bin\Debug\net6.0\Ex_les003_Div.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\bin\Debug\net6.0\Ex_les003_Div.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\bin\Debug\net6.0\Ex_les003_Div.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\bin\Debug\net6.0\Ex_les003_Div.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\bin\Debug\net6.0\Ex_les003_Div.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\refint\Ex_les003_Div.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\Ex_les003_Div.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les003_Div\obj\Debug\net6.0\ref\Ex_les003_Div.dll
