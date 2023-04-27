@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\bin\Debug\net6.0\Ex_les009ArrayMax.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\bin\Debug\net6.0\Ex_les009ArrayMax.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\bin\Debug\net6.0\Ex_les009ArrayMax.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\bin\Debug\net6.0\Ex_les009ArrayMax.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\bin\Debug\net6.0\Ex_les009ArrayMax.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\refint\Ex_les009ArrayMax.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\Ex_les009ArrayMax.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_les009ArrayMax\obj\Debug\net6.0\ref\Ex_les009ArrayMax.dll
