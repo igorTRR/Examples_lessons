@@ -3,7 +3,7 @@
 int a = 1;
 int b = 2;
 int c = 16;
-int d = 8;
+int d = 58;
 int e = 4;
 
 int max= a;
