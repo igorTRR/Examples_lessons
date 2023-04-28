@@ -3,7 +3,7 @@ int[] array = {1,8,23,41,5,18,27,18};
 
 int n = array.Length;
 
-int find = 8;
+int find = 18;
 int index = 0;
 
 while ( index < n )
