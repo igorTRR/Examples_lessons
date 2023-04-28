@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serhinski\\Ex_les 007 Serhinski.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serpinski\\Ex_les 007 Serhinski.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serhinski\\Ex_les 007 Serhinski.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serpinski\\Ex_les 007 Serhinski.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serhinski\\Ex_les 007 Serhinski.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serpinski\\Ex_les 007 Serhinski.csproj",
         "projectName": "Ex_les 007 Serhinski",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serhinski\\Ex_les 007 Serhinski.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serpinski\\Ex_les 007 Serhinski.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serhinski\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Examples_Lessons\\Ex_les 007 Serpinski\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
