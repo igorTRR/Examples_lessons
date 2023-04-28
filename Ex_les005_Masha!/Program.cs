@@ -2,7 +2,7 @@
 Console.WriteLine("Введите имя: ");
 string username = Console.ReadLine();
 
-if(usernameюToLower() == "маша") //ToLower() - убирает все варианты маша (Маша=мАша =МАша итд)
+if(username.ToLower() == "маша") //ToLower() - убирает все варианты маша (Маша=мАша =МАша итд)
 {
     Console.WriteLine("Yes! это МАША!");
 }
