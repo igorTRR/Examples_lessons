@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\bin\Debug\net6.0\Ex_Sem!1_Dem.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\bin\Debug\net6.0\Ex_Sem!1_Dem.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\bin\Debug\net6.0\Ex_Sem!1_Dem.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\bin\Debug\net6.0\Ex_Sem!1_Dem.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\bin\Debug\net6.0\Ex_Sem!1_Dem.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\refint\Ex_Sem!1_Dem.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\Ex_Sem!1_Dem.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem!1_Dem\obj\Debug\net6.0\ref\Ex_Sem!1_Dem.dll
