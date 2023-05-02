@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\bin\Debug\net6.0\Ex_SemDZ02.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\bin\Debug\net6.0\Ex_SemDZ02.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\bin\Debug\net6.0\Ex_SemDZ02.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\bin\Debug\net6.0\Ex_SemDZ02.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\bin\Debug\net6.0\Ex_SemDZ02.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\refint\Ex_SemDZ02.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\Ex_SemDZ02.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_SemDZ02\obj\Debug\net6.0\ref\Ex_SemDZ02.dll
