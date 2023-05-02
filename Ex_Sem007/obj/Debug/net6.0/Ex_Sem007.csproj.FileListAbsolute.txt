@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\bin\Debug\net6.0\Ex_Sem007.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\bin\Debug\net6.0\Ex_Sem007.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\bin\Debug\net6.0\Ex_Sem007.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\bin\Debug\net6.0\Ex_Sem007.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\bin\Debug\net6.0\Ex_Sem007.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\refint\Ex_Sem007.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\Ex_Sem007.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Sem007\obj\Debug\net6.0\ref\Ex_Sem007.dll
