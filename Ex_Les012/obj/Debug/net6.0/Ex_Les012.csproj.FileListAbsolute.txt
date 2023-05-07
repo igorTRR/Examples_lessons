@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\bin\Debug\net6.0\Ex_Les012.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\bin\Debug\net6.0\Ex_Les012.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\bin\Debug\net6.0\Ex_Les012.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\bin\Debug\net6.0\Ex_Les012.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\bin\Debug\net6.0\Ex_Les012.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\refint\Ex_Les012.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\Ex_Les012.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Ex_Les012\obj\Debug\net6.0\ref\Ex_Les012.dll
