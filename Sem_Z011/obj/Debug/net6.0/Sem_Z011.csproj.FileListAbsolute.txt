@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\bin\Debug\net6.0\Sem_Z011.exe
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\bin\Debug\net6.0\Sem_Z011.deps.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\bin\Debug\net6.0\Sem_Z011.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\bin\Debug\net6.0\Sem_Z011.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\bin\Debug\net6.0\Sem_Z011.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\refint\Sem_Z011.dll
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.pdb
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\Sem_Z011.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Examples_Lessons\Sem_Z011\obj\Debug\net6.0\ref\Sem_Z011.dll
